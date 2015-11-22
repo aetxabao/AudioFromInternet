@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioFromInternet</string>
+    <string name="play_from_internet">Reproducir desde Internet</string>
+</resources>
